@@ -10,7 +10,7 @@ public class HelloCOntroller {
 	
 	@GetMapping
 	public String hello() {
-		return "from Test app";
+		return "from Test app live";
 	}
 
 }
